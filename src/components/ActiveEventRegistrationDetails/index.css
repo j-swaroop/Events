@@ -1,0 +1,57 @@
+.active-event-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+}
+.active-event-heading{
+    color: #64748b;
+    font-family: "Roboto";
+    font-size: 24px;
+}
+.yet-to-register-img{
+    width: 300px;
+}
+.yet-rigister-description{
+    color:  #64748b;
+    font-family: "Roboto";
+    font-size: 18px;
+    text-align: center;
+    margin-top: 28px;
+}
+.register-btn{
+    color: #ffffff;
+    background-color:  #0967d2;
+    border-width: 0;
+    font-family: "Roboto";
+    padding: 14px;
+    width: 70%;
+    font-size: 15px;
+    margin-top: 25px;
+    border-radius: 8px;
+}
+.registered-img{
+    width: 100px;
+}
+.registered-decription{
+    color: #323f4b;
+    font-size: 22px;
+    font-family: "Roboto";
+    text-align: center;
+    margin-top: 25px;
+}
+.registration-closed-img{
+    width: 300px;
+}
+.registration-closed-description{
+    font-family: "Roboto";
+    color: #475569;
+    font-size: 18px;
+}
+.registration-closed-heading{
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 24px;
+    margin-top: 25px;
+}
